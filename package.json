@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-kirby-kql",
+  "version": "1.0.0",
+  "description": "A simple nuxt plugin to help to consume KQL",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielRivers/nuxt-kirby-kql"
+  },
+  "email": "git@danielrivers.com",
+  "author": "Daniel Rivers",
+  "license": "MIT"
+}
